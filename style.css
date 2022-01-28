@@ -1,0 +1,38 @@
+h1{
+    color:firebrick;
+    text-align: center;
+    font-style:calc();
+    font-weight: bolder ;
+}
+table{
+    border: rgb(79, 33, 193);
+    border-width: 0vmax;
+}
+
+button{
+    color:blue;
+    background-color:rgb(47, 252, 29);
+}
+label{
+    color: rgb(231, 21, 21);
+}
+
+
+body{
+    background-color: floralwhite;
+    font-family: trebuchet MS;
+}
+
+a{
+    text-decoration: none; 
+}
+
+/*span{
+    
+
+}*/
+.tag{
+    background-color: yellow;
+    font-style:italic;
+    color: black;
+}
